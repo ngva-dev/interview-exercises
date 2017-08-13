@@ -10,3 +10,6 @@
 - After you complete the exercise, provide any notes on your code below such as how to run your example
 
 ## Candidate Notes:
+   - First Longest Palindrome could be substrig for example "referrer". Here referrer is not a palindrome but 'refer' is. So the second longest palindrome is 'erre'. 
+
+
